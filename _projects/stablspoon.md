@@ -1,6 +1,6 @@
 ---
 title: 'stablspoon'
-subtitle: 'This is a demo'
+subtitle: 'A balancing spoon for people with hand tremors.'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/stabl-hero.JPG'
@@ -35,7 +35,7 @@ You can also add blockquotes, which are shown at a larger width to help break up
 The theme also supports markdown tables:
 
 | Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
+| -------------------- | ------------- | ---------------- | ----- |
 | Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
 | Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
 | Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
@@ -55,10 +55,10 @@ You can throw in some horizontal rules too:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+    <img src="/images/demo/demo-portrait.jpg">
+    <img src="/images/demo/demo-landscape.jpg">
+    <img src="/images/demo/demo-square.jpg">
+    <img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
@@ -85,8 +85,8 @@ Here's another gallery with only one column, which creates a carousel slide-show
 A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+    <img src="/images/demo/demo-landscape.jpg">
+    <img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
 ### What about videos?
