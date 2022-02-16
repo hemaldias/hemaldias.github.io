@@ -8,7 +8,9 @@ featured_image: '/images/demo/home-square.jpg'
 
 ![](/images/homecell/header.png)
 
-At **homecell**, we are pioneering **a new relationship** between humans and the energy ecosystem. Our aim is to introduce **energy as a lifestyle** choice to people. We know that the electricity we consume comes from a mix of sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**. We designed homecell to **store electricity from the national grid when it is most renewable**, allowing clean energy to be used at home, any time, by anyone. Giving the power back to the people in the green energy transition.
+At **homecell**, we are pioneering **a new relationship** between humans and the energy ecosystem. Our aim is to introduce **energy as a lifestyle** choice to people. We know that the electricity we consume comes from a mix of sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**. 
+
+We designed homecell to **store electricity from the national grid when it is most renewable**, allowing clean energy to be used at home, any time, by anyone. Giving the power back to the people in the green energy transition.
 
 ---
 
