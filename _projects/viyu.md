@@ -24,7 +24,7 @@ Glamourising motorised vehicle ownership, burning crops and excessive firework d
 
 At the heart of air pollution in India lies misinformation, lack of information, and misunderstanding of both the data and the health risk.
 
-> Only 15 out of 36 states in India have a monitoring system for key air pollutants in any given year, leading to extremely inconsistent air pollution data.
+Only 15 out of 36 states in India have a monitoring system for key air pollutants in any given year, leading to extremely inconsistent air pollution data.
 
 In order to be effective, our intervention had to meet three core objectives:
 
