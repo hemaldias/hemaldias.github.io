@@ -1,6 +1,6 @@
 ---
 title: Hemal Dias
-subtitle: Design Engineer
+subtitle: About Me
 description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---

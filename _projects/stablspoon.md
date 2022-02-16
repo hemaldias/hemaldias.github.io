@@ -56,16 +56,6 @@ We have a varied team of user testers who try our prototypes and shape our futur
 
 ---
 
-## Awards and Features
+## Awards
 
 ![](/images/stablspoon/awards.JPG)
-
-
-
-Please click below to find out more about each award:
-
-- [Design Council Spark Award (Winner 2019)]([Meet the Spark finalists 2019 | Design Council](https://www.designcouncil.org.uk/news-opinion/meet-spark-finalists-2019))
-
-- [Design Intelligence Awards (Honourable Mention 2020)]([stablspoon - Winners - Design Intelligence Award (di-award.org)](https://en.di-award.org/collections/detail/702.html))
-
-- [Engineering Talent Awards (Best Innovation of the Year Shortlist 2020)]([Best Innovation of the Year 2020 – Engineering Talent Awards](https://engineeringtalentawards.com/best-innovation-of-the-year-2020/))
