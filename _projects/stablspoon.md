@@ -36,6 +36,14 @@ While interviewing people with hand tremors, we realised that existing specialis
 
 ---
 
-## The Solution
+## Development
 
-Unlike competitor products which use complex and costly electronic systems, stablspoon relies only on mechanical parts such as springs allowing us to deliver comparable performance at a significantly lower cost. Early prototypes demonstrated at 70% reduction in tremor amplitude. 
+The project started as my third year Mechanical Engineering dissertation at the University of Warwick. By the end of the project, I had developed a prototype which cost less than £5 to manufacture but demonstrated a 68% reduction in tremor amplitude. 
+
+![](/images/stablspoon/performance.jpg)
+
+The project was progressed beyond university and further prototype iterations were made.
+
+![](/images/stablspoon/prototypes.jpg)
+
+I later applied to the Design Council Spark accelerator who were looking for designs that aid with independent living. Over the course of 
