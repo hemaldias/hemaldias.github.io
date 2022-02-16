@@ -6,12 +6,10 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/demo/stabl-hero.JPG'
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
-## Demo content
+## stablspoon
 
 <div>
-<video autoplay="autoplay" loop="loop" width="768" height="512">
+<video autoplay="autoplay" loop="loop">
   <source src="/images/test.mp4" type="video/mp4">
 </video>
 </div>
