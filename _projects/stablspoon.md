@@ -9,7 +9,7 @@ featured_image: '/images/demo/stabl-hero.JPG'
 ## stablspoon
 
 <div>
-<video autoplay="autoplay" loop="loop">
+<video autoplay="autoplay" loop="loop" width="100%">
   <source src="/images/test.mp4" type="video/mp4">
 </video>
 </div>
