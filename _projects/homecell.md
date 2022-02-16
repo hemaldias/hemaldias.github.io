@@ -8,9 +8,9 @@ featured_image: '/images/demo/home-square.jpg'
 
 ![](/images/homecell/header.png)
 
-# homecell
-
 At **homecell**, we are pioneering **a new relationship** between humans and the energy ecosystem. Our aim is to introduce **energy as a lifestyle** choice to people. We know that the electricity we consume comes from a mix of sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**. We designed homecell to **store electricity from the national grid when it is most renewable**, allowing clean energy to be used at home, any time, by anyone. Giving the power back to the people in the green energy transition.
+
+---
 
 ## The Problem with Energy
 
@@ -22,6 +22,8 @@ The UK has pledged to improve the situation by becoming carbon net zero before t
 
 ![](\images\homecell\problemwithenergy.png)
 
+---
+
 ## Our Solution
 
 **What if we could store this renewable energy when it is available then use it at times when there is less available?**
@@ -32,9 +34,13 @@ This is **homecell**, an automatic plug-and-store green energy unit, so users c
 
 ![](\images\homecell\oursolution2.png)
 
+---
+
 ## Our Technology
 
 **homecell** works by communicating with the National Grid to determine when the energy coming from our plug sockets is the cleanest. Using the additional data inputs of user data and energy suppliers, the software optimises charging and usage times. The software controls the hardware and connects to the homecell app and homecell API.
+
+---
 
 ## Impact and Next Steps
 
