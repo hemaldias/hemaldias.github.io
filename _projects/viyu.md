@@ -1,5 +1,5 @@
 ---
-title: 'viyu'
+title: 'VIYU'
 subtitle: 'Visualising the air pollution around you.'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
@@ -7,101 +7,42 @@ featured_image: '/images/demo/viyu-square.jpg'
 
 ---
 
-<div>
-<video autoplay="autoplay" loop="loop" width="100%">
-  <source src="/images/viyu.mp4" type="video/mp4">
-</video>
-</div>
+![](\images\viyu\header.jpg)
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+viyu aims to make air pollution awareness viral by letting people collect and engagingly
+share their own hyper localised data.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-| -------------------- | ------------- | ---------------- | ----- |
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
+It consists of an open-source, affordable and portable air pollution sensor which constantly monitors the concentration of air pollutants and syncs this data with an app. Its low cost nature allows as many people as possible to own it, resulting in detailed localised evidence about air pollution. To make it even more accessible, we developed a DIY kit . The project was developed for Delhi but has the potential for a global impact.
 
 ---
 
-### Image galleries
+## The Problem
 
-Here's a really neat custom feature we added – galleries:
+Air pollution causes 4 million premature deaths annually. Unfortunately all evidence suggests that the problem is only set to get worse, especially in areas where it is already significant.  
 
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
+India is among the worst countries affected, of which Delhi is one of the most impacted cities, due to both its local practices and geography.
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
+![](/images/viyu/stats.jpg)
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
+Glamourising motorised vehicle ownership, burning crops and excessive firework displays all contribute to the harmful substances in Delhi’s air. Having spoken to individuals and charities in the area, we learnt that many people don’t understand the environmental and health impact of these behaviours.
 
-*See what we did there? Code and syntax highlighting is built-in too!*
+![](/images/viyu/monitoring.jpg)
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+
+
+At the heart of air pollution in India lies misinformation, lack of information, and misunderstanding of both the data and the health risk. Only 15 out of 36 states in India have a monitoring system for key air pollutants in any given year, leading to extremely
+inconsistent air pollution data.
 
 ---
 
-### Image carousels
+## The Solution
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
+![](/images/viyu/objectives.jpg)
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+In order to be effective, our intervention had to meet three core objectives:
 
-<div class="gallery" data-columns="1">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
+1. Everyone should have hyper local information about the air pollution that they are exposed to within their community.
 
-### What about videos?
+2. This data must be understandable and represent the harms that air pollution can have on not just the environment, but on your health as well. 
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/19536258?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+3. Air pollution can no longer remain silent or invisible, but rather a campaign must be made to raise awareness of the issue from the perspective of the next generation.
