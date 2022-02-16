@@ -20,7 +20,7 @@ Global energy production is still heavily dependent on burning non-renewable res
 
 The UK has pledged to improve the situation by becoming carbon net zero before the year 2050. But there is a problem. Renewable sources of energy are very dependent on the weather making them intermittent.
 
-![](homecell\problemwithenergy.png)
+![](\images\homecell\problemwithenergy.png)
 
 ## Our Solution
 
@@ -28,9 +28,9 @@ The UK has pledged to improve the situation by becoming carbon net zero before t
 
 This is **homecell**, an automatic plug-and-store green energy unit, so users can set it and leave it. Making the green transition much more easy & accessible. **homecell** would be accompanied by an app which allows you to control and monitor your units, and track your environmental impact.
 
-![](homecell\oursolution1.png)
+![](\images\homecell\oursolution1.png)
 
-![](homecell\oursolution2.png)
+![](\images\homecell\oursolution2.png)
 
 ## Our Technology
 
@@ -44,4 +44,4 @@ In the long term, we want to move from residential electricity to small-scale co
 
 We aim to use homes to create a shift in behaviour and apply these in public spaces for a greener future in cities.
 
-![](homecell\impact.png)
+![](\images\homecell\impact.png)
