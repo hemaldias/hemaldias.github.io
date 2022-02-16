@@ -10,6 +10,12 @@ featured_image: '/images/demo/stabl-hero.JPG'
 
 ## Demo content
 
+<div>
+<video autoplay="autoplay" loop="loop" width="768" height="512">
+  <source src="/images/test.mp4" type="video/mp4">
+</video>
+</div>
+
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
