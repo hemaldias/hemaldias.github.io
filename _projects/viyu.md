@@ -18,21 +18,13 @@ It consists of an open-source, affordable and portable air pollution sensor whic
 
 ## The Problem
 
-> Air pollution causes 4 million premature deaths annually. In India it caused 1.24 million deaths in 2017. 
-
-
+> Air pollution in India causes caused 1.24 million deaths in 2017. 
 
 Glamourising motorised vehicle ownership, burning crops and excessive firework displays all contribute to the harmful substances in Delhi’s air. Having spoken to individuals and charities in the area, we learnt that many people don’t understand the environmental and health impact of these behaviours.
 
-
-
 At the heart of air pollution in India lies misinformation, lack of information, and misunderstanding of both the data and the health risk.
 
-
-
 > Only 15 out of 36 states in India have a monitoring system for key air pollutants in any given year, leading to extremely inconsistent air pollution data.
-
-
 
 In order to be effective, our intervention had to meet three core objectives:
 
@@ -53,3 +45,21 @@ Our device utilizes existing technology in a durable, portable and WiFi enabled 
 ![](/images/viyu/applications.jpg)
 
 It automatically takes readings without the user having to do anything and sends those readings to their phone as well as beeps and flashes to warn the user when it detects significant changes in the air around them.
+
+![](/images/viyu/app.jpg)
+
+The app uses visual representations of pollution level with engaging 3D graphics, making the data easier to understand and compelling to share on social media. App features include (left-to-right) realtime air pollution data, tracking pollution exposure throughout the day, monitoring air pollution data from other sensors in the network.
+
+VIYU will promote sharing these compelling visuals to generate an awareness campaign.
+
+---
+
+## Technology Demonstration
+
+As part of the project, I made a functional physical sensor prototype, along with an app. The video demonstrates what happens when the PM2.5 concentration in the room goes up. 
+
+<div>
+<video autoplay="autoplay" loop="loop" width="100%">
+  <source src="/images/viyu/prototype.mp4" type="video/mp4">
+</video>
+</div>
