@@ -18,20 +18,21 @@ It consists of an open-source, affordable and portable air pollution sensor whic
 
 ## The Problem
 
-Air pollution causes 4 million premature deaths annually. Unfortunately all evidence suggests that the problem is only set to get worse, especially in areas where it is already significant.  
+> Air pollution causes 4 million premature deaths annually. In India it caused 1.24 million deaths in 2017. 
 
-India is among the worst countries affected, of which Delhi is one of the most impacted cities, due to both its local practices and geography.
 
-![](/images/viyu/stats.jpg)
 
 Glamourising motorised vehicle ownership, burning crops and excessive firework displays all contribute to the harmful substances in Delhi’s air. Having spoken to individuals and charities in the area, we learnt that many people don’t understand the environmental and health impact of these behaviours.
 
-![](/images/viyu/monitoring.jpg)
+
+
+At the heart of air pollution in India lies misinformation, lack of information, and misunderstanding of both the data and the health risk.
 
 
 
-At the heart of air pollution in India lies misinformation, lack of information, and misunderstanding of both the data and the health risk. Only 15 out of 36 states in India have a monitoring system for key air pollutants in any given year, leading to extremely
-inconsistent air pollution data.
+> Only 15 out of 36 states in India have a monitoring system for key air pollutants in any given year, leading to extremely inconsistent air pollution data.
+
+
 
 ---
 
