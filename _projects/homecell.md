@@ -1,104 +1,57 @@
 ---
 title: 'homecell'
-subtitle: 'Plug-and-store green energy'
-date: 2018-06-30 00:00:00
+subtitle: 'Plug-and-store green energy.'
+date: 2021-08-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/home-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](homecell\Header.png)
 
-## Demo content
+# homecell
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+At **homecell**, we are pioneering **a new relationship** between humans and the energy ecosystem. Our aim is to introduce **energy as a lifestyle** choice to people. We know that the electricity we consume comes from a mix of sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**. We designed homecell to **store electricity from the national grid when it is most renewable**, allowing clean energy to be used at home, any time, by anyone. Giving the power back to the people in the green energy transition.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-You can create lists:
+## The Problem with Energy
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+> “73% of global carbon emissions come from the energy sector” - World Resource Institute (2020)
 
-And:
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+Global energy production is still heavily dependent on burning non-renewable resources such as oil and gas, which significantly contribute to carbon emissions.
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+The UK has pledged to improve the situation by becoming carbon net zero before the year 2050. But there is a problem. Renewable sources of energy are very dependent on the weather making them intermittent.
 
-The theme also supports markdown tables:
+![](homecell\problemwithenergy.png)
 
-| Item                 | Author        | Supports tables? | Price |
-| -------------------- | ------------- | ---------------- | ----- |
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
+## Our Solution
 
-You can throw in some horizontal rules too:
+**What if we could store this renewable energy when it is available then use it at times when there is less available?**
 
----
+This is **homecell**, an automatic plug-and-store green energy unit, so users can set it and leave it. Making the green transition much more easy & accessible. **homecell** would be accompanied by an app which allows you to control and monitor your units, and track your environmental impact.
 
-### Image galleries
+![](homecell\oursolution1.png)
 
-Here's a really neat custom feature we added – galleries:
+![](homecell\oursolution2.png)
 
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
+## Our Technology
 
-*See what we did there? Code and syntax highlighting is built-in too!*
+**homecell** works by communicating with the National Grid to determine when the energy coming from our plug sockets is the cleanest. Using the additional data inputs of user data and energy suppliers, the software optimises charging and usage times. The software controls the hardware and connects to the homecell app and homecell API.
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
 
----
 
-### Image carousels
+## Impact and Next Steps
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
+With **homecell**, we can save around 125M tonnes of CO2 that would normally be generated by burning fossil fuels - equivalent to planting 5B trees. Additionally, the yearly electricity bill would be cut by 50% which is an average of £350.
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+In the long term, we want to move from residential electricity to small-scale commercial and ultimately into corporate spaces.
 
-<div class="gallery" data-columns="1">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
+We aim to use homes to create a shift in behaviour and apply these in public spaces for a greener future in cities.
 
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/19536258?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+![](homecell\impact.png)
