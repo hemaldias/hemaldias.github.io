@@ -52,24 +52,20 @@ I later applied to the Design Council Spark accelerator who were looking for des
 
 I am currently collaborating with Clive Goodwin, Ex Creative Director at Samsung Design Europe, to bring the product to market. We continously work alongside charities, health specialists and people with hand tremors to ensure that stablspoon will be perfect for its customers.
 
-We have a varied team of user testers who have tried our latest prototypes. 
+We have a varied team of user testers who try our prototypes and shape our future development. 
 
 ---
 
 ## Awards and Features
 
-![](/images/stablspoon/awards.jpg)
+![](/images/stablspoon/awards.JPG)
 
 
 
 Please click below to find out more about each award:
 
-- Design Council Spark Award (Winner 2019)
+- [Design Council Spark Award (Winner 2019)]([Meet the Spark finalists 2019 | Design Council](https://www.designcouncil.org.uk/news-opinion/meet-spark-finalists-2019))
 
-- Design Intelligence Awards (Honourable Mention 2020)
+- [Design Intelligence Awards (Honourable Mention 2020)]([stablspoon - Winners - Design Intelligence Award (di-award.org)](https://en.di-award.org/collections/detail/702.html))
 
-- Engineering Talent Awards (Best Innovation of the Year Shortlist 2020)
-
-
-
-We have also been featured in the following publications:
+- [Engineering Talent Awards (Best Innovation of the Year Shortlist 2020)]([Best Innovation of the Year 2020 – Engineering Talent Awards](https://engineeringtalentawards.com/best-innovation-of-the-year-2020/))
