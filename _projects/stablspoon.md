@@ -20,19 +20,19 @@ Our end users also complained about the embarrassment associated with using conv
 
 ## The Problem (And Our Inspiration)
 
-The project was inspired by a family friend called Ben who has a hand tremor rendering most day-to-day tasks difficult, with eating being exceptionally challenging. I wanted to help him but was shocked to see that existing assistive aids cost over £200, simply unaffordable to the people who need it most. I knew a more accesible solution was possible so embarked on my mission to remove the frustration from eating with a hand tremor. 
+###### Meet Ben, the inspiration behind stablspoon.
 
 ![](/images/stablspoon/ben.jpg)
 
-###### Meet Ben, the inspiration behind stablspoon.
-
-Ben is not alone with up to 1 in 25 people worldwide having a tremor and eating being an anecdotal problem. 
+The project was inspired by a family friend called Ben who has a hand tremor rendering most day-to-day tasks difficult, with eating being exceptionally challenging. I wanted to help him but was shocked to see that existing assistive aids cost over £200, simply unaffordable to the people who need it most. I knew a more accesible solution was possible so embarked on my mission to remove the frustration from eating with a hand tremor.
 
 ![](/images/stablspoon/scale.jpg)
 
-While interviewing people with hand tremors, we realised that existing specialised spoons were not only too costly, but also embarrassing to use. To make stablspoon truly accesible, being affordable was not enough, it had to be aesthetically pleasing. 
+Ben is not alone with up to 1 in 25 people worldwide having a tremor and eating being an anecdotal problem.
 
 ![](/images/stablspoon/user.jpg)
+
+While interviewing people with hand tremors, we realised that existing specialised spoons were not only too costly, but also embarrassing to use. To make stablspoon truly accesible, being affordable was not enough, it had to be aesthetically pleasing.
 
 ---
 
@@ -42,8 +42,34 @@ The project started as my third year Mechanical Engineering dissertation at the 
 
 ![](/images/stablspoon/performance.jpg)
 
-The project was progressed beyond university and further prototype iterations were made.
+The project progressed beyond university and further prototype iterations were made.
 
 ![](/images/stablspoon/prototypes.jpg)
 
-I later applied to the Design Council Spark accelerator who were looking for designs that aid with independent living. Over the course of 
+I later applied to the Design Council Spark accelerator who were looking for designs that aid with independent living. **stablspoon left the accelerator with a £60,000 investment** and the project has since transitioned into a start-up.
+
+![](/images/stablspoon/team.jpg)
+
+I am currently collaborating with Clive Goodwin, Ex Creative Director at Samsung Design Europe, to bring the product to market. We continously work alongside charities, health specialists and people with hand tremors to ensure that stablspoon will be perfect for its customers.
+
+We have a varied team of user testers who have tried our latest prototypes. 
+
+---
+
+## Awards and Features
+
+![](/images/stablspoon/awards.jpg)
+
+
+
+Please click below to find out more about each award:
+
+- Design Council Spark Award (Winner 2019)
+
+- Design Intelligence Awards (Honourable Mention 2020)
+
+- Engineering Talent Awards (Best Innovation of the Year Shortlist 2020)
+
+
+
+We have also been featured in the following publications:
