@@ -46,4 +46,10 @@ In order to be effective, our intervention had to meet three core objectives:
 
 ## The Solution
 
-![](/images/viyu/objectives.jpg)
+![](/images/viyu/exploded.jpg)
+
+Our device utilizes existing technology in a durable, portable and WiFi enabled PM2.5 sensor that costs under £20, allowing people to have it with them as they carry out their day.
+
+![](/images/viyu/applications.jpg)
+
+It automatically takes readings without the user having to do anything and sends those readings to their phone as well as beeps and flashes to warn the user when it detects significant changes in the air around them.
