@@ -34,16 +34,16 @@ At the heart of air pollution in India lies misinformation, lack of information,
 
 
 
+In order to be effective, our intervention had to meet three core objectives:
+
+1. Everyone should have hyper local information about the air pollution that they are exposed to within their community.
+
+2. This data must be understandable and represent the harms that air pollution can have on not just the environment, but on your health as well.
+
+3. Air pollution can no longer remain silent or invisible, but rather a campaign must be made to raise awareness of the issue from the perspective of the next generation.
+
 ---
 
 ## The Solution
 
 ![](/images/viyu/objectives.jpg)
-
-In order to be effective, our intervention had to meet three core objectives:
-
-1. Everyone should have hyper local information about the air pollution that they are exposed to within their community.
-
-2. This data must be understandable and represent the harms that air pollution can have on not just the environment, but on your health as well. 
-
-3. Air pollution can no longer remain silent or invisible, but rather a campaign must be made to raise awareness of the issue from the perspective of the next generation.
