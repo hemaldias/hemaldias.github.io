@@ -8,19 +8,21 @@ featured_image: '/images/demo/home-square.jpg'
 
 ![](/images/homecell/header.png)
 
-At **homecell**, we are pioneering **a new relationship** between humans and the energy ecosystem. Our aim is to introduce **energy as a lifestyle** choice to people. We know that the electricity we consume comes from a mix of sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**. 
+We know that the electricity we consume comes from a mix of sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**. 
 
 We designed homecell to **store electricity from the national grid when it is most renewable**, allowing clean energy to be used at home, any time, by anyone. Giving the power back to the people in the green energy transition.
+
+This is a group project as part of the Innovation Design Engineering Masters course. 
 
 ---
 
 ## The Problem with Energy
 
-> “73% of global carbon emissions come from the energy sector” - World Resource Institute (2020)
-
 Global energy production is still heavily dependent on burning non-renewable resources such as oil and gas, which significantly contribute to carbon emissions.
 
-The UK has pledged to improve the situation by becoming carbon net zero before the year 2050. But there is a problem. Renewable sources of energy are very dependent on the weather making them intermittent.
+> “73% of global carbon emissions come from the energy sector” - World Resource Institute (2020)
+
+The UK has pledged to improve the situation by becoming carbon net-zero before the year 2050. But there is a problem. When it is sunny and windy, we generate more green electricity than required which is currently just wasted. Conversely, when the weather is poor, we generate less green energy than required resulting in a dependence on fossil fuel-based generation. 
 
 ![](\images\homecell\problemwithenergy.png)
 
@@ -30,7 +32,7 @@ The UK has pledged to improve the situation by becoming carbon net zero before t
 
 **What if we could store this renewable energy when it is available then use it at times when there is less available?**
 
-This is **homecell**, an automatic plug-and-store green energy unit, so users can set it and leave it. Making the green transition much more easy & accessible. **homecell** would be accompanied by an app which allows you to control and monitor your units, and track your environmental impact.
+This is **homecell**, an automatic plug-and-store green energy unit, so users can set it and leave it, making the green transition more easy & accessible. **homecell** would be accompanied by an app which allows you to control and monitor your units, and track your environmental impact.
 
 ![](\images\homecell\oursolution1.png)
 
@@ -53,3 +55,23 @@ In the long term, we want to move from residential electricity to small-scale co
 We aim to use homes to create a shift in behaviour and apply these in public spaces for a greener future in cities.
 
 ![](\images\homecell\impact.png)
+
+---
+
+## My Role
+
+My contributions to the project include:
+
+* Design research (desk research and interviewing experts)
+
+* Independently developing the functional prototype 
+
+* Feasibility and impact studies
+
+* Editing the project video
+
+
+
+---
+
+## Project Video

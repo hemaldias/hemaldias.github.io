@@ -11,9 +11,11 @@ featured_image: '/images/demo/relax-square.jpg'
 
 What if the computers surrounding us know how we really feel?
 
-relax! explores this concept by utilising a hacked EEG sensor headset to wirelessly monitor and transmit data regarding your stress and attention levels, rendering your mind as an IoT device.
+relax! explores this concept by utilising a hacked EEG sensor headset to wirelessly monitor and transmit data regarding your stress and attention levels, rendering your mind an IoT device.
 
 The base station knows when you’re stressed, causing the relax flag to rise and an Oreo to be ‘printed’, encouraging you to take a break and enjoy a well-earned snack.
+
+This is a solo project as part of the Innovation Design Engineering course. 
 
 ---
 
@@ -27,14 +29,14 @@ The base station knows when you’re stressed, causing the relax flag to rise an
 
 If the video fails to play, click here.
 
-The EEG headset monitors electromagnetic activity in the brain and inteprets value for 'meditation'. The more stressed your are, the greater the value outputted. The information is then wirelessly transmited to the base station. If the stress value is above the preset threshold, the relax flag rises and you get an oreo. yay!
+The EEG headset monitors electrical activity in the brain and interprets value for 'meditation'. The more stressed you are, the greater the value outputted. The information is then wirelessly transmited to the base station. If the stress value is above the preset threshold, the relax flag rises and you get an oreo. yay!
 
 ---
 
 ## Development
 
 <div>
-<video autoplay="autoplay" loop="loop" width="100%" mute="true" playsinline="true" >
+<video autoplay="autoplay" loop="loop" controls="true" width="100%" mute="true" playsinline="true" >
   <source src="/images/relax/prototype.mp4" type="video/mp4">
 </video>
 </div>

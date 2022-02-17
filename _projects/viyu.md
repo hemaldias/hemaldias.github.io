@@ -2,17 +2,18 @@
 title: 'VIYU'
 subtitle: 'Visualising the air pollution around you.'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: viyu aims to make air pollution awareness viral by letting people collect and engagingly share their own hyper localised data.
 featured_image: '/images/demo/viyu-square.jpg'
 
 ---
 
 ![](\images\viyu\header.jpg)
 
-viyu aims to make air pollution awareness viral by letting people collect and engagingly
-share their own hyper localised data.
+viyu aims to **make air pollution awareness viral** by letting people collect and engagingly share their own hyper localised data.
 
-It consists of an open-source, affordable and portable air pollution sensor which constantly monitors the concentration of air pollutants and syncs this data with an app. Its low cost nature allows as many people as possible to own it, resulting in detailed localised evidence about air pollution. To make it even more accessible, we developed a DIY kit . The project was developed for Delhi but has the potential for a global impact.
+It consists of an open-source, affordable and portable air pollution sensor that constantly monitors the concentration of air pollutants and syncs this data with an app. Its low-cost nature allows as many people as possible to own it, resulting in detailed localised evidence about air pollution. The project was developed for Delhi but has the potential for a global impact.
+
+This is a group project as part of the Innovation Design Engineering course. 
 
 ---
 
@@ -22,17 +23,15 @@ It consists of an open-source, affordable and portable air pollution sensor whic
 
 Glamourising motorised vehicle ownership, burning crops and excessive firework displays all contribute to the harmful substances in Delhi’s air. Having spoken to individuals and charities in the area, we learnt that many people don’t understand the environmental and health impact of these behaviours.
 
-At the heart of air pollution in India lies misinformation, lack of information, and misunderstanding of both the data and the health risk.
-
 Only 15 out of 36 states in India have a monitoring system for key air pollutants in any given year, leading to extremely inconsistent air pollution data.
 
-In order to be effective, our intervention had to meet three core objectives:
+Our intervention had to meet these objectives:
 
-1. Everyone should have hyper local information about the air pollution that they are exposed to within their community.
+1. Provide hyper localised air-pollution data.
 
-2. This data must be understandable and represent the harms that air pollution can have on not just the environment, but on your health as well.
+2. This data must be easily understandable.
 
-3. Air pollution can no longer remain silent or invisible, but rather a campaign must be made to raise awareness of the issue from the perspective of the next generation.
+3. A campaign must be made to raise awareness of the issue.
 
 ---
 
@@ -40,11 +39,11 @@ In order to be effective, our intervention had to meet three core objectives:
 
 ![](/images/viyu/exploded.jpg)
 
-Our device utilizes existing technology in a durable, portable and WiFi enabled PM2.5 sensor that costs under £20, allowing people to have it with them as they carry out their day.
+Our device utilizes existing technology in a durable, portable and WiFi-enabled PM2.5 sensor that costs under £20, allowing people to have it with them as they carry out their day.
 
 ![](/images/viyu/applications.jpg)
 
-It automatically takes readings without the user having to do anything and sends those readings to their phone as well as beeps and flashes to warn the user when it detects significant changes in the air around them.
+It automatically takes readings and sends those readings to their phone as well as beeps and flashes to warn the user when it detects significant changes.
 
 ![](/images/viyu/app.jpg)
 
@@ -63,3 +62,15 @@ As part of the project, I made a functional physical sensor prototype, along wit
   <source src="/images/viyu/prototype.mp4" type="video/mp4">
 </video>
 </div>
+
+---
+
+## My Role
+
+My contribution to the project includes:
+
+* Design research (desk research and interviews with charities+individuals)
+
+* Functional prototype development
+
+* Assisted with rendering 

@@ -15,36 +15,40 @@ dystome is a pen for focal hand dystonia retraining. It allows people with the c
 
 ## The Problem
 
-Focal Hand Dystonia (FHD) is a neurological condition causing painful spasms in the hand which tends to affect only one task - writing. It makes hand writing illegible, slow and agonising to sustain.
+Focal Hand Dystonia (FHD) is a neurological condition causing painful spasms in the hand which tends to affect only one task - writing. It makes handwriting illegible, slow, and agonising to sustain.
 
 The actual physical problem of FHD is excessive pressure being applied to the grip of the pen, and to the paper itself. 
 
+
+
 ![](/images/dystome/pressure.jpg)
 
-The current most common solution is botox injections to the hand. The advantage is that it weakens muscles in the hand leading to lower pressures. It is however temporary, expensive and weakens your whole hand. 
+
+
+The current most common solution is botox injections to the hand. The advantage is that it weakens muscles in the hand leading to lower pressures. It is however temporary, expensive, and weakens your whole hand. 
 
 ---
 
 ## The Solution
 
-People with FHD have excessive brain plasticity. They have an increased ability to learn motor actions (such as writing) at later stages of their life. At some point, they learnt how to write incorrectly which causes the issue. **The correct motor action can however be relearnt.**
+People with FHD have excessive brain plasticity. They have an increased ability to learn motor actions (such as writing) at later stages of their life. At some point, they learned how to write incorrectly which causes the issue. **The correct motor action can however be relearned.**
 
 This process of retraining is typically conducted over months by a specialised physiotherapist who prescribes writing exercises and closely monitors. 
 
 > Retraining alone showed a 31% improvement in legibility
 
-Retraining is uncommon as there is a national shortage of pysiotherapists hence the increased dependence on home exercise but how can a physiotherapist be confident that the correct action is being relearnt without supervision? This is why I developed dystome.
+Retraining is uncommon as there is a national shortage of physiotherapists hence the increased dependence on home exercise but how can a physiotherapist be confident that the correct action is being relearned without supervision? This is why I developed dystome.
 
 ![](/images/dystome/diagram.jpg)
 
-dystome is a special pen which you can use from anywhere that analyses your writing style and gives feedback on how it could be improved. It’s intended to be used in conjunction with a treatment schedule from a physiotherapist but allows a
+dystome is a special pen that you can use from anywhere that analyses your writing style and gives feedback on how it could be improved. It’s intended to be used in conjunction with a treatment schedule from a physiotherapist but allows a
 greater range of exercises to be done from home.
 
 ---
 
 ## Technology Demonstration
 
-As part of the project, I made a functional prototype and app. The prototype features a presure sensor monitoring how hard the pen is being gripped, and another one measuring the pressure applied to the page. 
+As part of the project, I made a functional prototype and app. The prototype features a pressure sensor monitoring how hard the pen is being gripped, and another one measuring the pressure applied to the page. 
 
 <div>
 <video autoplay="autoplay" loop="loop" width="100%">
