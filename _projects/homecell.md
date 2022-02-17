@@ -2,7 +2,7 @@
 title: 'homecell'
 subtitle: 'Plug-and-store green energy.'
 date: 2021-08-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Plug-and-store green energy.
 featured_image: '/images/demo/home-square.jpg'
 ---
 
@@ -44,6 +44,10 @@ This is **homecell**, an automatic plug-and-store green energy unit, so users c
 
 **homecell** works by communicating with the National Grid to determine when the energy coming from our plug sockets is the cleanest. Using the additional data inputs of user data and energy suppliers, the software optimises charging and usage times. The software controls the hardware and connects to the homecell app and homecell API.
 
+Below is our technical demonstration with our functional prototype. 
+
+<iframe src="https://player.vimeo.com/video/667734342?h=b81cfa637b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="homecell: plug-and-store green energy"></iframe>
+
 ---
 
 ## Impact and Next Steps
@@ -63,15 +67,12 @@ We aim to use homes to create a shift in behaviour and apply these in public spa
 My contributions to the project include:
 
 * Design research (desk research and interviewing experts)
-
 * Independently developing the functional prototype 
-
 * Feasibility and impact studies
-
 * Editing the project video
-
-
 
 ---
 
 ## Project Video
+
+<iframe src="https://player.vimeo.com/video/667672194?h=d897637e9b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="homecell: plug-and-store green energy"></iframe>

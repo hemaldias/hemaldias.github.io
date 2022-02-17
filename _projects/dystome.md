@@ -2,7 +2,7 @@
 title: 'dystome'
 subtitle: 'Home retraining for Focal Hand Dystonia.'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Home retraining for Focal Hand Dystonia.
 featured_image: '/images/demo/dystome-square.jpg'
 
 ---
@@ -19,11 +19,7 @@ Focal Hand Dystonia (FHD) is a neurological condition causing painful spasms in 
 
 The actual physical problem of FHD is excessive pressure being applied to the grip of the pen, and to the paper itself. 
 
-
-
 ![](/images/dystome/pressure.jpg)
-
-
 
 The current most common solution is botox injections to the hand. The advantage is that it weakens muscles in the hand leading to lower pressures. It is however temporary, expensive, and weakens your whole hand. 
 
@@ -60,6 +56,4 @@ As part of the project, I made a functional prototype and app. The prototype fea
 
 ## Video
 
-<div>
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/678691993?h=941493db6f&badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="dystome - Home retraining for Focal Hand Dystonia."></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-</div>
+<iframe src="https://player.vimeo.com/video/678691993?h=941493db6f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="dystome - Home retraining for Focal Hand Dystonia."></iframe>

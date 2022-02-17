@@ -2,7 +2,7 @@
 title: 'VIYU'
 subtitle: 'Visualising the air pollution around you.'
 date: 2018-06-30 00:00:00
-description: viyu aims to make air pollution awareness viral by letting people collect and engagingly share their own hyper localised data.
+description: Visualising the air pollution around you.
 featured_image: '/images/demo/viyu-square.jpg'
 
 ---
@@ -28,9 +28,7 @@ Only 15 out of 36 states in India have a monitoring system for key air pollutant
 Our intervention had to meet these objectives:
 
 1. Provide hyper localised air-pollution data.
-
 2. This data must be easily understandable.
-
 3. A campaign must be made to raise awareness of the issue.
 
 ---

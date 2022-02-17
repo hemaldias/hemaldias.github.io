@@ -2,7 +2,7 @@
 title: 'relax!'
 subtitle: 'The future of digital assistants.'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: The future of digital assistants.
 featured_image: '/images/demo/relax-square.jpg'
 
 ---
@@ -27,8 +27,6 @@ This is a solo project as part of the Innovation Design Engineering course.
 </video>
 </div>
 
-If the video fails to play, click here.
-
 The EEG headset monitors electrical activity in the brain and interprets value for 'meditation'. The more stressed you are, the greater the value outputted. The information is then wirelessly transmited to the base station. If the stress value is above the preset threshold, the relax flag rises and you get an oreo. yay!
 
 ---
@@ -41,7 +39,7 @@ The EEG headset monitors electrical activity in the brain and interprets value f
 </video>
 </div>
 
-An early prototype of the rack and pinion mechanism used is shown. If the video fails to load click here.
+An early prototype of the rack and pinion mechanism used is shown. 
 
 ![](/images/relax/exploded.jpg)
 

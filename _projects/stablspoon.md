@@ -2,7 +2,7 @@
 title: 'stablspoon'
 subtitle: 'A balancing spoon for people with hand tremors.'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: A balancing spoon for people with hand tremors.
 featured_image: '/images/demo/stabl-hero.JPG'
 ---
 
@@ -53,8 +53,6 @@ I am currently collaborating with Clive Goodwin, Ex Creative Director at Samsung
 </div>
 
 We have a varied team of user testers who try our prototypes and shape our future development. 
-
-![](/images/stablspoon/competition.jpg)
 
 ---
 
