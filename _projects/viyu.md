@@ -68,7 +68,5 @@ As part of the project, I made a functional physical sensor prototype, along wit
 My contribution to the project includes:
 
 * Design research (desk research and interviews with charities+individuals)
-
 * Functional prototype development
-
 * Assisted with rendering 

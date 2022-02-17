@@ -46,11 +46,13 @@ greater range of exercises to be done from home.
 
 As part of the project, I made a functional prototype and app. The prototype features a pressure sensor monitoring how hard the pen is being gripped, and another one measuring the pressure applied to the page. 
 
+
 <div>
-<video autoplay="autoplay" loop="loop" width="100%">
+<video autoplay="autoplay" loop="loop" controls="true" width="100%" mute="true" playsinline="true" >
   <source src="/images/dystome/prototype.mp4" type="video/mp4">
 </video>
 </div>
+
 
 ---
 
