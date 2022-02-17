@@ -56,6 +56,4 @@ As part of the project, I made a functional prototype and app. The prototype fea
 
 ## Video
 
-<div>
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/678691993?h=941493db6f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="dystome - Home retraining for Focal Hand Dystonia."></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-</div>
+<iframe src="https://player.vimeo.com/video/678691993?h=941493db6f&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="dystome - Home retraining for Focal Hand Dystonia."></iframe>
