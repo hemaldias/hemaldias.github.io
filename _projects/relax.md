@@ -29,7 +29,7 @@ If the video fails to play, click here.
 
 The EEG headset monitors electromagnetic activity in the brain and inteprets value for 'meditation'. The more stressed your are, the greater the value outputted. The information is then wirelessly transmited to the base station. If the stress value is above the preset threshold, the relax flag rises and you get an oreo. yay!
 
-![](/images/relax/process.jpg)
+
 
 
 
