@@ -19,11 +19,11 @@ Focal Hand Dystonia (FHD) is a neurological condition causing painful spasms in 
 
 
 
-It not only affects people professionally but socially and emotionally too. 
-
-
-
 The actual physical problem of FHD is excessive pressure being applied to the grip of the pen, and to the paper itself. 
+
+
+
+![](/images/dystome/pressure.jpg)
 
 
 
@@ -35,7 +35,7 @@ The current most common solution is botox injections to the hand. The advantage 
 
 ## The Solution
 
-People with FHD have excessive brain plasticity. They have an invreased ability to learn motor actions (such as writing) at later stages of their life. At some point, they learnt how to write incorrectly which causes the issue. **The correct motor action can however be relearnt.**
+People with FHD have excessive brain plasticity. They have an increased ability to learn motor actions (such as writing) at later stages of their life. At some point, they learnt how to write incorrectly which causes the issue. **The correct motor action can however be relearnt.**
 
 This process of retraining is typically conducted over months by a specialised physiotherapist who prescribes writing exercises and closely monitors. 
 
@@ -43,7 +43,9 @@ This process of retraining is typically conducted over months by a specialised p
 
 
 
-Retraining is however uncommon as there is a national shortage of pysiotherapists and lower limb impairments are prioritsed. For these reasons, there's an increased dependence on home exercise but how can a physiotherapist be confident that the correct action is being relearnt without supervision? This is why I made dystome.
+Retraining is uncommon as there is a national shortage of pysiotherapists hence the increased dependence on home exercise but how can a physiotherapist be confident that the correct action is being relearnt without supervision? This is why I developed dystome.
+
+![](/images/dystome/diagram.jpg)
 
 dystome is a special pen which you can use from anywhere that analyses your writing style and gives feedback on how it could be improved. It’s intended to be used in conjunction with a treatment schedule from a physiotherapist but allows a
 greater range of exercises to be done from home.
@@ -58,6 +60,6 @@ As part of the project, I made a functional prototype and app. The prototype fea
 
 <div>
 <video autoplay="autoplay" loop="loop" width="100%">
-  <source src="/images/viyu/prototype.mp4" type="video/mp4">
+  <source src="/images/dystome/prototype.mp4" type="video/mp4">
 </video>
 </div>
