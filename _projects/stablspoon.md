@@ -7,7 +7,7 @@ featured_image: '/images/demo/stabl-hero.JPG'
 ---
 
 <div>
-<video autoplay="autoplay" loop="loop" width="100%">
+<video autoplay="autoplay" loop="loop" width="100%" mute="true" playsinline="true">
   <source src="/images/test.mp4" type="video/mp4">
 </video>
 </div>

@@ -13,7 +13,7 @@ What if the computers surrounding us know how we really feel?
 
 relax! explores this concept by utilising a hacked EEG sensor headset to wirelessly monitor and transmit data regarding your stress and attention levels, rendering your mind as an IoT device.
 
-The base station knows when you’re stressed, causing the relax flag to rise and an Oreo to be ‘printed’, encouraging you to take a break and enjoy a well-earnt snack.
+The base station knows when you’re stressed, causing the relax flag to rise and an Oreo to be ‘printed’, encouraging you to take a break and enjoy a well-earned snack.
 
 ---
 
