@@ -20,7 +20,7 @@ The base station knows when you’re stressed, causing the relax flag to rise an
 ## Final Outcome
 
 <div>
-<video autoplay="autoplay" loop="loop" width="100%" mute="true" playsinline="true" >
+<video autoplay="autoplay" loop="loop" controls="true" width="100%" mute="true" playsinline="true" >
   <source src="/images/relax/final.mp4" type="video/mp4">
 </video>
 </div>
@@ -29,15 +29,9 @@ If the video fails to play, click here.
 
 The EEG headset monitors electromagnetic activity in the brain and inteprets value for 'meditation'. The more stressed your are, the greater the value outputted. The information is then wirelessly transmited to the base station. If the stress value is above the preset threshold, the relax flag rises and you get an oreo. yay!
 
-
-
-
-
 ---
 
 ## Development
-
-
 
 <div>
 <video autoplay="autoplay" loop="loop" width="100%" mute="true" playsinline="true" >
@@ -45,14 +39,8 @@ The EEG headset monitors electromagnetic activity in the brain and inteprets val
 </video>
 </div>
 
-
-
 An early prototype of the rack and pinion mechanism used is shown. If the video fails to load click here.
 
-
-
 ![](/images/relax/exploded.jpg)
-
-
 
 Here is an exploded view of the final base station design.

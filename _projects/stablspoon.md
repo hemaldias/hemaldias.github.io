@@ -59,7 +59,7 @@ I later applied to the Design Council Spark accelerator who were looking for des
 I am currently collaborating with Clive Goodwin, Ex Creative Director at Samsung Design Europe, to bring the product to market. We continously work alongside charities, health specialists and people with hand tremors to ensure that stablspoon will be perfect for its customers.
 
 <div>
-<video autoplay="autoplay" loop="loop" width="100%" mute="true" playsinline="true" >
+<video autoplay="autoplay" loop="loop" controls="true" width="100%" mute="true" playsinline="true" >
   <source src="/images/test.mp4" type="video/mp4">
 </video>
 </div>

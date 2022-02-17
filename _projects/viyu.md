@@ -59,7 +59,7 @@ VIYU will promote sharing these compelling visuals to generate an awareness camp
 As part of the project, I made a functional physical sensor prototype, along with an app. The video demonstrates what happens when the PM2.5 concentration in the room goes up. 
 
 <div>
-<video autoplay="autoplay" loop="loop" width="100%">
+<video autoplay="autoplay" loop="loop" controls="true" width="100%" mute="true" playsinline="true" >
   <source src="/images/viyu/prototype.mp4" type="video/mp4">
 </video>
 </div>
