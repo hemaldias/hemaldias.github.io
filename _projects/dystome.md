@@ -7,56 +7,54 @@ featured_image: '/images/demo/dystome-square.jpg'
 
 ---
 
-![](\images\viyu\header.jpg)
+![](\images\dystome\header.jpg)
 
-viyu aims to make air pollution awareness viral by letting people collect and engagingly
-share their own hyper localised data.
-
-It consists of an open-source, affordable and portable air pollution sensor which constantly monitors the concentration of air pollutants and syncs this data with an app. Its low cost nature allows as many people as possible to own it, resulting in detailed localised evidence about air pollution. To make it even more accessible, we developed a DIY kit . The project was developed for Delhi but has the potential for a global impact.
+dystome is a pen for focal hand dystonia retraining. It allows people with the condition, who usually struggle to write, to improve from the comfort of their own home. 
 
 ---
 
 ## The Problem
 
-> Air pollution in India causes caused 1.24 million deaths in 2017. 
+Focal Hand Dystonia (FHD) is a neurological condition causing painful spasms in the hand which tends to affect only one task - writing. It makes hand writing illegible, slow and agonising to sustain.
 
-Glamourising motorised vehicle ownership, burning crops and excessive firework displays all contribute to the harmful substances in Delhi’s air. Having spoken to individuals and charities in the area, we learnt that many people don’t understand the environmental and health impact of these behaviours.
 
-At the heart of air pollution in India lies misinformation, lack of information, and misunderstanding of both the data and the health risk.
 
-Only 15 out of 36 states in India have a monitoring system for key air pollutants in any given year, leading to extremely inconsistent air pollution data.
+It not only affects people professionally but socially and emotionally too. 
 
-In order to be effective, our intervention had to meet three core objectives:
 
-1. Everyone should have hyper local information about the air pollution that they are exposed to within their community.
 
-2. This data must be understandable and represent the harms that air pollution can have on not just the environment, but on your health as well.
+The actual physical problem of FHD is excessive pressure being applied to the grip of the pen, and to the paper itself. 
 
-3. Air pollution can no longer remain silent or invisible, but rather a campaign must be made to raise awareness of the issue from the perspective of the next generation.
+
+
+The current most common solution is botox injections to the hand. The advantage is that it weakens muscles in the hand leading to lower pressures. It is however temporary, expensive and weakens your whole hand. 
+
+
 
 ---
 
 ## The Solution
 
-![](/images/viyu/exploded.jpg)
+People with FHD have excessive brain plasticity. They have an invreased ability to learn motor actions (such as writing) at later stages of their life. At some point, they learnt how to write incorrectly which causes the issue. **The correct motor action can however be relearnt.**
 
-Our device utilizes existing technology in a durable, portable and WiFi enabled PM2.5 sensor that costs under £20, allowing people to have it with them as they carry out their day.
+This process of retraining is typically conducted over months by a specialised physiotherapist who prescribes writing exercises and closely monitors. 
 
-![](/images/viyu/applications.jpg)
+> Retraining alone showed a 31% improvement in legibility
 
-It automatically takes readings without the user having to do anything and sends those readings to their phone as well as beeps and flashes to warn the user when it detects significant changes in the air around them.
 
-![](/images/viyu/app.jpg)
 
-The app uses visual representations of pollution level with engaging 3D graphics, making the data easier to understand and compelling to share on social media. App features include (left-to-right) realtime air pollution data, tracking pollution exposure throughout the day, monitoring air pollution data from other sensors in the network.
+Retraining is however uncommon as there is a national shortage of pysiotherapists and lower limb impairments are prioritsed. For these reasons, there's an increased dependence on home exercise but how can a physiotherapist be confident that the correct action is being relearnt without supervision? This is why I made dystome.
 
-VIYU will promote sharing these compelling visuals to generate an awareness campaign.
+dystome is a special pen which you can use from anywhere that analyses your writing style and gives feedback on how it could be improved. It’s intended to be used in conjunction with a treatment schedule from a physiotherapist but allows a
+greater range of exercises to be done from home.
+
+
 
 ---
 
 ## Technology Demonstration
 
-As part of the project, I made a functional physical sensor prototype, along with an app. The video demonstrates what happens when the PM2.5 concentration in the room goes up. 
+As part of the project, I made a functional prototype and app. The prototype features a presure sensor monitoring how hard the pen is being gripped, and another one measuring the pressure applied to the page. 
 
 <div>
 <video autoplay="autoplay" loop="loop" width="100%">
