@@ -27,9 +27,9 @@ Only 15 out of 36 states in India have a monitoring system for key air pollutant
 
 Our intervention had to meet these objectives:
 
-1. Provide hyper localised air-pollution data.
-2. This data must be easily understandable.
-3. A campaign must be made to raise awareness of the issue.
+1. **Provide hyper localised air-pollution data.**
+2. **This data must be easily understandable.**
+3. **A campaign must be made to raise awareness of the issue.**
 
 ---
 
