@@ -7,6 +7,7 @@ featured_image: '/images/demo/home-square.jpg'
 ---
 
 ![](/images/homecell/header.png)
+
 Affiliated with: Royal College of Art
 
 We know that the electricity we consume comes from a mix of sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**. 
