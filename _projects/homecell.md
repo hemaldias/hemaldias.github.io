@@ -13,7 +13,7 @@ We know that the electricity we consume comes from a mix of sources, with an inc
 
 We designed homecell to **store electricity from the national grid when it is most renewable**, allowing clean energy to be used at home, any time, by anyone. Giving the power back to the people in the green energy transition.
 
-This is a group project as part of the Innovation Design Engineering Masters course. 
+This is a group project as part of the Innovation Design Engineering Masters course. """
 
 ---
 
