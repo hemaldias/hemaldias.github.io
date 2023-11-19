@@ -8,6 +8,18 @@ featured_image: '/images/demo/stabl-hero.JPG'
 
 ![](/images/stablspoon/header.jpg)
 
+**Achievements:** 
+
+- Design Council Spark 2019, Winner (£65,000 Seed funding)
+- China Academy of Art Design Intelligence Award 2020, Honorable Mention
+- Engineering Talent Awards Best Innovation of the Year 2020, Short list
+
+**Role:** Sole Founder
+
+---
+
+## Project overview
+
 stablspoon is an award-winning stabilising spoon for people with hand tremors. The project is currently sponsored by both the Design Council and Alzheimer’s Society, with an anticipated release date of early 2023. Unlike competitor products which use complex electronic systems, stablspoon is fully mechanical allowing it to cost under £50 rather than over £200.
 
 Our interviewees also complained about the embarrassment associated with using conventional bulky and white eating aids, leading us to develop an aesthetically pleasing product that **people want, not just need**.

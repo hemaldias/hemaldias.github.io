@@ -57,8 +57,8 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  x64-mingw-ucrt
   x64-mingw32
+  x64-unknown
 
 DEPENDENCIES
   jekyll (= 3.8.5)
