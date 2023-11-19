@@ -6,7 +6,14 @@ description: A balancing spoon for people with hand tremors.
 featured_image: '/images/demo/stabl-hero.JPG'
 ---
 
-![](/images/stablspoon/header.jpg)
+<div>
+  <video autoplay="autoplay" loop="loop" controls="true" width="100%" muted="true" playsinline="true" >
+    <source src="/images/test.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
 
 **Achievements:** 
 
@@ -20,9 +27,7 @@ featured_image: '/images/demo/stabl-hero.JPG'
 
 ## Project overview
 
-stablspoon is an award-winning stabilising spoon for people with hand tremors. The project is currently sponsored by both the Design Council and Alzheimer’s Society, with an anticipated release date of early 2023. Unlike competitor products which use complex electronic systems, stablspoon is fully mechanical allowing it to cost under £50 rather than over £200.
-
-Our interviewees also complained about the embarrassment associated with using conventional bulky and white eating aids, leading us to develop an aesthetically pleasing product that **people want, not just need**.
+stablspoon is an award-winning stabilising spoon for people with hand tremors. The project is currently sponsored by both the Design Council and Alzheimer’s Society, with an anticipated release date of early 2024. Unlike competitor products which use complex electronic systems, stablspoon is fully mechanical allowing it to **cost under £50** rather than over £200. Our interviewees complained about the embarrassment associated with using conventional bulky and white eating aids, leading us to develop an aesthetically pleasing product that **people want, not just need**.
 
 ---
 
