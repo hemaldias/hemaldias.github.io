@@ -8,7 +8,7 @@ featured_image: '/images/demo/home-square.jpg'
 
 ![](/images/homecell/header.png)
 
-**Affiliated with:** Royal College of Art, Final masters group project
+**Affiliated with:** Royal College of Art, Final masters group project, 2021
 
 **Achievements:** Mayor's Entrepreneur Competition Semi-finalist 2022
 
