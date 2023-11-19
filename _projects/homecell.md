@@ -8,11 +8,23 @@ featured_image: '/images/demo/home-square.jpg'
 
 ![](/images/homecell/header.png)
 
-Affiliated with: Royal College of Art. We know that the electricity we consume comes from a mix of sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**. 
+**Affiliated with:** Royal College of Art, Final masters group project
+
+**Achievements:** Mayor's Entrepreneur Competition Semi-finalist 2022
+
+**My role:** 
+
+* Design research (desk research, interviewing stakeholders including experts and general public)
+* Independently developing the functional prototype 
+* Feasibility and impact studies
+* Editing the project video
+
+
+We know that the electricity we consume comes from a mix of sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**. 
 
 We designed homecell to **store electricity from the national grid when it is most renewable**, allowing clean energy to be used at home, any time, by anyone. Giving the power back to the people in the green energy transition.
 
-This is a group project as part of the Innovation Design Engineering Masters course. """
+
 
 ---
 
