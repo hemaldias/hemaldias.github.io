@@ -12,13 +12,13 @@ featured_image: '/images/demo/home-square.jpg'
 
 **Achievements:** Mayor's Entrepreneur Competition Semi-finalist 2022
 
-**Role:** Design research, technology development and impact studies
+**Role:** Design research, technology development, prototyping and impact studies
 
 ---
 
-## Project Overview
+## Project overview
 
-We know that the electricity we consume at home comes from a mix of sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**.  We designed homecell to **store electricity from the national grid when it is most renewable**, allowing clean energy to be used at home, any time, by anyone. 
+We know that the electricity we consume at home comes from a mix of energy sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**.  We designed homecell to **store electricity from the national grid when it is most renewable**, allowing clean energy to be used at home, any time, by anyone. 
 
 
 ![](\images\homecell\problemwithenergy.png)
@@ -30,9 +30,9 @@ We know that the electricity we consume at home comes from a mix of sources, wit
 
 ---
 
-## Our Technology
+## How it works
 
-**homecell** works by communicating with the National Grid to determine when the energy coming from our plug sockets is the cleanest. Using the additional data inputs of user data and energy suppliers, the software optimises charging and usage times. The software controls the hardware and connects to the homecell app and homecell API.
+**homecell** works by communicating with the National Grid to determine when the energy coming from our plug sockets is the cleanest. 
 
 
 <iframe src="https://player.vimeo.com/video/667792371?h=5138a4c24a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
