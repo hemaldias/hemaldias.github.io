@@ -3,9 +3,9 @@ title: 'HAPT'
 subtitle: 'Video games through touch for people with visual impairments.'
 date: 2018-06-30 00:00:00
 description: Video games through touch for people with visual impairments.
-featured_image: '/images/demo/hapt-square.JPEG'
+featured_image: '/images/demo/hapt-square.JPG'
 ---
-![](/images/hapt/hero.jpeg)
+![](/images/hapt/hero.jpg)
 
 **Affiliated with:** Royal College of Art, solo masters group project, 2021
 
@@ -33,4 +33,5 @@ featured_image: '/images/demo/hapt-square.JPEG'
 ![](/images/hapt/3.jpg)
 
 ![](/images/hapt/4.JPG)
-![](\images\hapt\5.JPG)
+
+![](\images\hapt\final.jpg)
