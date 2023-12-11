@@ -3,7 +3,7 @@ title: 'HAPT'
 subtitle: 'Video games through touch for people with visual impairments.'
 date: 2018-06-30 00:00:00
 description: Video games through touch for people with visual impairments.
-featured_image: '/images/demo/hapt-square.JPG'
+featured_image: '/images/demo/hapt-square.jpg'
 ---
 ![](/images/hapt/hero.jpg)
 
