@@ -1,9 +1,9 @@
 ---
-title: 'Coral Rescue'
+title: 'Beyond 5G'
 subtitle: 'Plug-and-store green energy.'
 date: 2021-08-30 00:00:00
 description: Plug-and-store green energy.
-featured_image: '/images/demo/coralrescue-square.jpg'
+featured_image: '/images/demo/by5g-square.jpg'
 ---
 
 ![](/images/homecell/header.png)
