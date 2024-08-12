@@ -14,10 +14,10 @@ featured_image: '/images/demo/coralrescue1-square.jpg'
 
 ---
 
-Coral Rescue is an IoT system allowing beginners to grow corals at home for conservation purposes. After personally writing a successful 12-million-yen grant fund, my prototypes are being rigorously tested in Tokyo and Virginia high schools. Students have successfully nurtured stubborn coral species and have a much clearer understanding and connection to the effect of climate change on corals. 
+Coral Rescue is an IoT system allowing beginners to grow corals at home for conservation purposes. After personally writing a successful 12-million-yen grant fund, my prototypes are being rigorously tested in Tokyo (Japan) and Virginia (US) high schools. Students have successfully nurtured stubborn coral species and have a much clearer understanding and connection to the effect of climate change on corals. 
 
 
-![](\images\coralrescue\1.jpg "")
+![](\images\coralrescue\1.jpg)
 
 
 Having grown corals for a year, I made a system which measures the 3 most critical parameters - temperature, pH and water level (consequently salinity). These are mesured with the sensors pictured above and sent to a web app which explains each parameter significance and how to adjust it. 
