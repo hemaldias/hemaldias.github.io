@@ -1,8 +1,8 @@
 ---
 title: 'Coral Rescue'
-subtitle: 'IoT system for growing corals'
-date: 2024-08-30 00:00:00
-description: IoT system for growing corals
+subtitle: 'IoT system for growing corals.'
+date: 2024-04-30 00:00:00
+description: IoT system for growing corals.
 featured_image: '/images/demo/coralrescue1-square.jpg'
 ---
 
