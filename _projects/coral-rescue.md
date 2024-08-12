@@ -1,24 +1,23 @@
 ---
 title: 'Coral Rescue'
-subtitle: 'Plug-and-store green energy.'
-date: 2021-08-30 00:00:00
-description: Plug-and-store green energy.
+subtitle: 'IoT system for growing corals'
+date: 2024-08-30 00:00:00
+description: IoT system for growing corals
 featured_image: '/images/demo/coralrescue1-square.jpg'
 ---
 
 ![](/images/homecell/header.png)
 
-**Affiliated with:** Royal College of Art, Final masters group project, 2021
+**Affiliated with:** DLX Design Lab University of Tokyo, 2024
 
-**Achievements:** Mayor's Entrepreneur Competition Semi-finalist 2022
+**Achievements:** United States - Japan Foundation Grant ($80,000)
 
-**Role:** Design research, technology development, prototyping and impact studies
+**Role:** Design research, UX design, PCB design, 3D printing, Grant writing, Deployment
 
 ---
 
-## Project overview
+Coral Rescue is an IoT system allowing beginners to grow corals at home for conservation purposes. Having written a successful 12-million-yen grant fund, my prototypes are being rigorously tested in Tokyo and Virginia high schools. Students have successfully nurtured stubborn coral species and have a much clearer understanding and connection to the effect of climate change on corals. 
 
-We know that the electricity we consume at home comes from a mix of energy sources, with an increasing proportion being renewable. However, these green sources are heavily dependent on weather conditions, resulting in **intermittent and unpredictable supply**.  We designed homecell to **store electricity from the national grid when it is most renewable**, allowing clean energy to be used at home, any time, by anyone. 
 
 ![](\images\homecell\oursolution1.png)
 
