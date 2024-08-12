@@ -3,7 +3,7 @@ title: 'Coral Rescue'
 subtitle: 'Plug-and-store green energy.'
 date: 2021-08-30 00:00:00
 description: Plug-and-store green energy.
-featured_image: '/images/demo/coralrescue1-square.jpg'
+featured_image: '/images/demo/coralrescue-square.jpg'
 ---
 
 ![](/images/homecell/header.png)
