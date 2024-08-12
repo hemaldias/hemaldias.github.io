@@ -6,28 +6,24 @@ description: IoT system for growing corals.
 featured_image: '/images/demo/coralrescue1-square.jpg'
 ---
 
-![](/images/homecell/header.png)
-
 **Affiliated with:** DLX Design Lab University of Tokyo, 2024
 
 **Achievements:** United States - Japan Foundation Grant ($80,000)
 
-**Role:** Design research, UX design, PCB design, 3D printing, Grant writing, Deployment
+**Role:** Ethnographic research, UX design, PCB design, 3D printing, Grant writing, Product deployment
 
 ---
 
 Coral Rescue is an IoT system allowing beginners to grow corals at home for conservation purposes. Having written a successful 12-million-yen grant fund, my prototypes are being rigorously tested in Tokyo and Virginia high schools. Students have successfully nurtured stubborn coral species and have a much clearer understanding and connection to the effect of climate change on corals. 
 
 
-![](\images\homecell\oursolution1.png)
-
-![](\images\homecell\oursolution2.png)
+![](\images\coralrescue\1.jpg)
 
 ---
 
 ## How it works
 
-The mix of energy sources (oil, nuclear, wind etc.) which feeds the UK national grid continuously varies throughout the day. **homecell** communicates with the National Grid API to determine when the energy coming from our plug sockets is the cleanest and sets its internal batteries to charge. Now when someone switches on an appliance connected to the homecell unit, it will use the energy stored in the batteries from when the energy was cleanest. 
+Having grown corals for a year, I made a system which measures the 3 most critical parameters - temperature, pH and water level (consequently salinity). These are sent to a web app which explains each parameter significance and how to adjust it. 
 
 <iframe src="https://player.vimeo.com/video/667792371?h=5138a4c24a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
