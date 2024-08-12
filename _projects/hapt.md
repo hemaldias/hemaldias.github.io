@@ -32,6 +32,6 @@ featured_image: '/images/demo/hapt-square.jpg'
 
 ![](/images/hapt/3.jpg)
 
-![](/images/hapt/4.JPG)
+<!--  -->![](/images/hapt/4.jpg)
 
 ![](\images\hapt\final.jpg)

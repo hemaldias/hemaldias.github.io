@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: CV
 subtitle: 
 description: A design engineer passionate about technology, entrepreneurship and supporting under-represented communities.
 featured_image: 
@@ -7,8 +7,36 @@ featured_image:
 
 ![](/images/hemal.jpg)
 
-I am a passionate design engineer with a strong interest and ability to develop innovative solutions in response to challenging open-ended problems. 
 
-I graduated with a first-class in Mechanical Engineering from the University of Warwick before joining the double-master Innovation Design Engineering course at the Royal College of Art and Imperial College London. I enjoy collaborating within interdisciplinary groups and combine my strong technical background and human centred design skills to deliver solutions that are not only innovative, but also feasible and effective.
+## Key Achievements 
 
-My specific interests include technology, entrepreneurship and supporting under-represented communities.
+
+_Design Council Spark Winner 2019_ - £65,000 seed funding awarded for [stablspoon](/project/stablspoon).
+
+_1851 Royal Commission Industrial Design Studentship_ - Fully funded masters degree scholarship.
+
+---
+
+## Design Experience 
+
+
+Design Engineer / Project Researcher, _DLX Design Lab_, University of Tokyo (Aug 2022-)
+
+Founder , _stablspoon_, (Sep 2019-)
+
+Design Researcher (Contract), _The Helen Hamlyn Centre for Design, RCA_
+
+Design Engineer (Year-long placment), _Handling Concepts Ltd_ (Aug 2019 - Jul 2020)
+
+---
+
+## Education 
+
+
+_Imperial College London_, Innovation Design Engineering (MSc), Distinction
+
+_Royal College of Art_, Innovation Design Engineering (MA), Ungraded
+
+_University of Warwick_, Mechanical Engineering w/ Placement Year (BEng), First class
+
+---
