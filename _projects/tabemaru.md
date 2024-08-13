@@ -1,37 +1,33 @@
 ---
 title: 'Tabemaru'
-subtitle: 'Video games through touch for people with visual impairments.'
-date: 2018-06-30 00:00:00
-description: Video games through touch for people with visual impairments.
+subtitle: 'Black soldier fly-powered food composters.'
+date: 2024-02-30 00:00:00
+description: Black soldier fly-powered food composters
 featured_image: '/images/demo/tabemaru-square.jpg'
 ---
-![](/images/hapt/hero.jpg)
+![](/images/tabemaru/hero.jpg)
 
-**Affiliated with:** Royal College of Art, solo masters group project, 2021
+**Affiliated with:** DLX Design Lab University of Tokyo, 2024
 
-**Role:** Solo project
-
----
-
-## Project overview
-
- Traditional video games for blind people rely completely on sound which is ineffective at communicating spatial information. For instance, a game like Tetris is impossible through only audio. HAPT inconspicuously sits on the wrist and connects to smartphones wirelessly. Inside, there are 4 specialised motors which gently tap the skin. When a gaming app is played, HAPT will tap in different arrangements depending on where the screen is touched. This allows blind people to intuitively understand the shape of game elements which adds a new dimension to their experience.
-
+**Role:** Design research, Systems thinking, Prototyping seperation mechanism
 
 ---
 
-## The Problem
+Revolutionising Japan’s agricultural industry by replacing food waste bins with black soldier fly-powered composters.
 
-![](/images/hapt/1.jpg)
+We developed and began testing a full-scale prototype using cutting-edge fly research from the university’s entomology lab to generate useful compost and fertilisers. The project has seen strong interest from various grant calls in a country which imports almost 95% of their fertilisers. 
 
-![](/images/hapt/2.gif)
 
----
 
-## Development
+![](/images/tabemaru/diagram.jpg)
 
-![](/images/hapt/3.jpg)
 
-<!--  -->![](/images/hapt/4.jpg)
+Black soldier flies (BSFs) have been proven to effectively convert large quantities of food waste to compost, while having other benefits such as removing toxic chemicals and reducing odors.
 
-![](\images\hapt\final.jpg)
+We made a prototype which self-sustains the whole life cycle of the BSF and replaces a bin. Restaurant staff would put food waste in one side, and receive compost from the other. 
+
+<img src="/images/tabemaru/seperation.gif" width="1920" height="1080"/>
+
+I designed and built the ventilation system and the separator, which is a box with a fine mesh that vibrates to separate the useful compost (excrement) from the larvae and food waste.
+
+I tested various spring configurations to allow ample movement while minimising the vibration (and consequent sound) of the whole system. 

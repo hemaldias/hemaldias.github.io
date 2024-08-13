@@ -5,8 +5,6 @@ description: A design engineer passionate about technology, entrepreneurship and
 featured_image: 
 ---
 
-![](/images/hemal.jpg)
-
 
 ## Key Achievements 
 
