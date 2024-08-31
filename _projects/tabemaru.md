@@ -31,3 +31,5 @@ We made a prototype which self-sustains the whole life cycle of the BSF and repl
 I designed and built the ventilation system and the separator, which is a box with a fine mesh that vibrates to separate the useful compost (excrement) from the larvae and food waste.
 
 I tested various spring configurations to allow ample movement while minimising the vibration (and consequent sound) of the whole system. 
+
+<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Find out more</a>

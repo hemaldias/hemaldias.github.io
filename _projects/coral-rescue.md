@@ -18,13 +18,34 @@ featured_image: '/images/demo/coralrescue1-square.jpg'
 
 Coral Rescue is an IoT system allowing beginners to grow corals at home for conservation purposes. After personally writing a successful 12-million-yen grant fund, my prototypes are being rigorously tested in Tokyo (Japan) and Virginia (US) high schools. Students have successfully nurtured stubborn coral species and have a much clearer understanding and connection to the effect of climate change on corals. 
 
+---
+## Initial Prototype
 
-![](\images\coralrescue\1c.jpg)
+<div class="gallery" data-columns="1">
+	<img src="/images/coralrescue/10.jpg">
+	<img src="/images/coralrescue/11.jpg">
+</div>
+
+My first attempt attempt at simplifying the coral growing process was to identify the most critical parameters, measure them and give feedback via a screen. Sensors for temperature, water level and pH were mounted on a 3D printed piece which was held in the tank by magnets. 
+
+---
+
+## Development
+
+<div class="gallery" data-columns="1">
+	<img src="/images/coralrescue/9.jpg">
+	<img src="/images/coralrescue/8.jpg">
+</div>
 
 
-Having grown corals for a year, I made a system which measures the 3 most critical parameters - temperature, pH and water level (consequently salinity). These are mesured with the sensors pictured above and sent to a web app which explains each parameter significance and how to adjust it. 
+To make the prototype cleaner and more intuitive, I designed a PCB alongside a 3D printed casing. This would now be a simple all in one unit which simply sat on the wall of tank. No need to worry about plugging in many wires, or finding the ideal place to mount the sensors.
 
+I intentionally used as many non-proprietary parts as possible to promote easy maintenance world-wide, and the PCB was designed to minimise noise and maximise precision. 
 
+![](/images/coralrescue/6.jpg)
+
+In addition to sensing, the unit also auto-topped up evaporated water, eliminating the quickest coral killer while a timelapse camera provided an engaging visual aspect.
+<br>
 
 <div>
   <video autoplay="autoplay" loop="loop" controls="true" width="100%" muted="true" playsinline="true" >
@@ -33,10 +54,19 @@ Having grown corals for a year, I made a system which measures the 3 most critic
   </video>
 </div>
 
+The data collected was synchronised with a web app (outsourced), allowing users to easily understand the condition of their tank. 
 
-The system auto-tops up evaporated water, eliminating the quickest coral killer while a timelapse camera provides an engaging visual aspect.
+---
 
-![](/images/coralrescue/6.jpg)
+## Deployment
 
-I experimented with various sensor configurations, made a PCB and fit it all into one casing which a beginner can simply hang onto the tank wall. Early prototypes were made from PLA with an FDM printer, but I later transitioned to SLS Nylon for longevitiy. 
+<div class="gallery" data-columns="1">
+	<img src="/images/coralrescue/12.jpg">
+	<img src="/images/coralrescue/13.jpg">
+    <img src="/images/coralrescue/15.jpg">
+    <img src="/images/coralrescue/14.jpg">
+</div>
 
+Having won the 12 million yen grant fund, I was tasked with making 2 additional units. One to be placed in a high school in Virginia, US and the other in Tokyo, Japan. My prototype was part of a wider international education scheme around marine conservation. 
+
+Students were tasked with independently growing corals by using the system. This brought up challenges of remotely monitoring and troubleshooting deployed units which I solved through over the air (OTA) updates and instructional guidance. 

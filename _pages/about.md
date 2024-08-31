@@ -4,37 +4,43 @@ subtitle:
 description: A design engineer passionate about technology, entrepreneurship and supporting under-represented communities.
 featured_image: 
 ---
+[//]: # <img src="/images/hemal.jpg" alt="Description of image">
 
 
-## Key Achievements 
+## 🧪 Design Experience 
 
+<br>
 
-_Design Council Spark Winner 2019_ - £65,000 seed funding awarded for [stablspoon](/project/stablspoon).
+**Design Engineer / Researcher**, _DLX Design Lab @ University of Tokyo_ (2022 - 2024)
 
-_1851 Royal Commission Industrial Design Studentship_ - Fully funded masters degree scholarship.
+**Founder** , _stablspoon_ (2019 - 2022)
 
----
+**Design Researcher** (Contract), _The Helen Hamlyn Centre for Design @ RCA_ (2020 - 2021)
 
-## Design Experience 
-
-
-Design Engineer / Project Researcher, _DLX Design Lab_, University of Tokyo (Aug 2022-)
-
-Founder , _stablspoon_, (Sep 2019-)
-
-Design Researcher (Contract), _The Helen Hamlyn Centre for Design, RCA_
-
-Design Engineer (Year-long placment), _Handling Concepts Ltd_ (Aug 2019 - Jul 2020)
+**Design Engineer**, _Handling Concepts Ltd_ (2019 - 2020)
 
 ---
 
-## Education 
+## 📖 Education 
 
+<br>
 
-_Imperial College London_, Innovation Design Engineering (MSc), Distinction
+**Imperial College London (MSc)** , Innovation Design Engineering, Distinction
 
-_Royal College of Art_, Innovation Design Engineering (MA), Ungraded
+**Royal College of Art (MA)**, Innovation Design Engineering, Distinction
 
-_University of Warwick_, Mechanical Engineering w/ Placement Year (BEng), First class
+**University of Warwick (BEng)**, Mechanical Engineering w/ Placement Year, First class
 
 ---
+## 🏆 Key Achievements 
+
+<br>
+
+**Design Council Spark Winner 2019** ([Link](https://www.voicemag.uk/news/6312/design-council-selects-spark-2019-finalists-to-receive-significant-funding)) - £65,000 seed funding awarded for [stablspoon](/project/stablspoon).
+
+**1851 Royal Commission Industrial Design Studentship 2021** ([Link](https://royalcommission1851.org/studentships-from-other-years)) - Fully funded masters degree scholarship.
+
+
+<br>
+<br>
+<a href="https://drive.google.com/file/d/1g2k6sMxPtWzm_pUr9l2Ls26sD4z9XjUZ/view?usp=sharing" class="button button--large">Full CV</a>

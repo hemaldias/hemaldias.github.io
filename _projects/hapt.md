@@ -28,7 +28,7 @@ featured_image: '/images/demo/hapt-square.jpg'
 
 ---
 
-## Development
+## Experimentation
 
 ![](/images/hapt/3.jpg)
 
