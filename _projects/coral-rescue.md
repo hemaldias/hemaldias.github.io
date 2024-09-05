@@ -61,9 +61,7 @@ The data collected was synchronised with a web app (outsourced), allowing users 
 ## Deployment
 
 <div class="gallery" data-columns="1">
-	<!– <img src="/images/coralrescue/12.jpg"> -->
 	<img src="/images/coralrescue/13.jpg">
-    <!–<img src="/images/coralrescue/15.jpg"> -->
     <img src="/images/coralrescue/14.jpg">
 </div>
 
